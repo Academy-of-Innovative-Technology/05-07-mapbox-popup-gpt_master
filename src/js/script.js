@@ -1,4 +1,4 @@
-mapboxgl.accessToken = //'pk.eyJ1IjoianNvbG9yemFubzI2IiwiYSI6ImNtbzFyZzJlbTBtYTEyb3B1dzJ0aWI4cHMifQ.hDQrk0kII7YUCE3jE0NOLQ'; //
+mapboxgl.accessToken = ' '; 
 
 
 var mapProps = {
